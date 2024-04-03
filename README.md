@@ -5,4 +5,4 @@ https://www.blender.org/download/
 press download and wait
 after install blender go to edit > preferences and go to addon, download blender.py and press install (import the blender.py) and enable the Rbx animation
 and now install the R6IK rig for making a animation
-enjoy!
+and also install the .mp4 for tutorial and install the .png for texture!
