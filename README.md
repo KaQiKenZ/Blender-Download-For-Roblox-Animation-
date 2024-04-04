@@ -1,4 +1,4 @@
-this is not a virus this is just for animation rig for people who want making a animation
+this is not a virus this is just for animation rig for people who want making a animation.
 for beginner pls use animation editor on roblox studio because blender is not recommended for beginner 
 go to the website (blender download)
 https://www.blender.org/download/
@@ -8,7 +8,7 @@ and now install the R6IK rig for making a animation
 and also install the .mp4 for tutorial and install the .png for texture!
 
 translation: indonesian
-ini bukan virus, ini hanya untuk perlengkapan animasi bagi orang yang ingin membuat animasi
+ini bukan virus, ini hanya untuk perlengkapan animasi bagi orang yang ingin membuat animasi.
 untuk pemula mohon gunakan editor animasi di studio roblox karena blender tidak disarankan untuk pemula
 buka situs webnya (unduh blender)
 https://www.blender.org/download/
